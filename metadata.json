@@ -1,0 +1,60 @@
+{
+  "name": "The Unrevealed",
+  "symbol": "CHILL",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeibi4mfgmyvhi42oxvcz3266aztpbusvak26k5dsbx3vbzffybjbyy.ipfs.nftstorage.link/0.gif?ext=gif",
+  "attributes": [
+   {
+      "trait_type": "Generation",
+      "value": "2"
+    },
+    {
+      "trait_type": "Lineage",
+      "value": "Cosplay"
+    },
+    {
+      "trait_type": "Ancestor",
+      "value": "Origin of Cosplay"
+    },
+    {
+      "trait_type": "Progenitor",
+      "value": "FALSE"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Chillchat"
+    },
+    {
+      "trait_type": "Canvas",
+      "value": "48x48"
+    },
+    {
+      "trait_type": "Visibility",
+      "value": "Safe"
+    },
+    {
+      "trait_type": "Artwork",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Character"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
